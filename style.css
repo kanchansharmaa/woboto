@@ -1,0 +1,105 @@
+
+.logo-img{
+    width: 170px;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+
+.container{
+    border: 2px solid #0472BF ;
+    background-color: white;
+    width: 510px;
+    height: 510px;
+    margin-left:400px ;
+    margin-top: 10px;
+    border-radius: 15px;
+    box-shadow: 2px 2px #a5d2f3 ;
+}
+
+.logo{
+    width: 40px;
+    margin-left: 240px;
+    margin-top: 8px;
+}
+
+.p1{
+    margin-left: 112px;
+    padding-top:2px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.p2{
+    color: grey;
+    font-size: 13px;
+    margin-left: 75px;
+    margin-top: 3px;
+
+}
+.sp1{
+    color: grey;
+    margin-left: 180px;
+    margin-top: 200px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.button{
+    border-radius: 3px;
+    background-color:#0472BF;
+    width: 370px;
+    color: white;
+    border-color:#0472BF;
+    margin-left: 75px;
+    cursor: pointer;
+    margin-top: 20px;
+    height: 30px;
+}
+
+
+.button:hover{
+    border-color: blue;
+    background-color: blue;
+}
+
+p{
+    margin-left: 76px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+input{
+    margin-top: 2px;
+    margin-left: 76px;
+    width: 380px;
+    height: 15px;
+
+}
+select{
+    margin-left: 76px;
+    width: 387px;
+    height: 22px;  
+
+}
+
+.btn-left{
+    margin-left: 76px;
+}
+
+button{
+    border-radius: 2px;
+}
+
+.num-btn{
+    background-color: white;
+    border-color: beige;
+    border-radius: 2px;
+    box-shadow: 2px;
+}
+
+.num-btn:hover{
+    background-color: #0472BF;
+    border-color: #0472BF;
+    color: white;
+}
